@@ -1,0 +1,12 @@
+[{
+    "name":"yesh",
+    "age":20,
+    "gender":"male"
+},
+{
+    "name":"star",
+    "age":27,   
+    "employee":false
+
+
+}]
